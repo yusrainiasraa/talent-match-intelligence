@@ -1,0 +1,5 @@
+job_vacancy_id,role_name,job_level,role_purpose,selected_bench_ids,weights,timestamp
+63bfe094,Data Analyst,Middle,,"[""EMP100003"", ""EMP100009"", ""EMP100013""]","{""iq"": 0.4, ""pauli"": 0.3, ""gtq"": 0.3}",2025-10-27T08:53:42.632777
+dfeae4e8,Data Analyst,Middle,,"[""EMP100003"", ""EMP100009"", ""EMP100013""]","{""iq"": 0.4, ""pauli"": 0.3, ""gtq"": 0.3}",2025-10-27T08:55:12.342906
+388283b3,Data Analyst,Middle,,"[""EMP100004"", ""EMP100006"", ""EMP100002"", ""EMP100001"", ""EMP100000""]","{""iq"": 0.4, ""pauli"": 0.3, ""gtq"": 0.3}",2025-10-27T08:57:52.665699
+38b197f4,Data Analyst,Middle,,"[""EMP100004""]","{""iq"": 0.4, ""pauli"": 0.3, ""gtq"": 0.3}",2025-10-27T09:11:56.754143
